@@ -22,7 +22,6 @@ class TextController extends StatelessWidget {
     );
   }
 
-  String _value;
 
   String get value {
     const _chars =
